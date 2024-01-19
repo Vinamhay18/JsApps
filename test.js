@@ -51,7 +51,7 @@ function App() {
         <button onClick={handleCalculate}>=</button>
         <button onClick={() => handleButtonClick('+')}>+</button>
 
-        <button className="clear" onClick={handleClear}>
+        <button className="clearandloudddd" onClick={handleClear}>
           C
         </button>
       </div>
